@@ -276,10 +276,10 @@ export const posts = [
 
     comments: [
       "Can I play video games now?",
-      "No let's actually study",
+      "No let's actually work",
       "Never mind, I'm going to play video games",
       "Stop it.",
-      "Michael, stop it.",
+      "Dane, stop it.",
     ],
   },
 ];
